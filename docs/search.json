@@ -5,7 +5,14 @@
       "title": "Matt Higham",
       "author": [],
       "contents": "\n\n    \n    \n      \n        \n          \n            \n              \n            \n              Matt Higham\n            \n            \n              \n                \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            Matt Higham studies spatial statistics with ecological applications. His focus is spatial prediction models with imperfect detection of animals in surveys. He is an Assistant Professor at St. Lawrence University and teaches courses in introductory statistics and data science. He enjoys watching tennis as well as fiddling around with tennis data.\n            \n            \n            Education\n            Oregon State University | Corvallis, OR\n            Ph.D. in Statistics | September 2014 - June 2019\n            Miami University | Oxford, OH\n            B.S. in Statistics, B.S. in Botany | August 2010 - May 2014\n            \n            \n            Experience\n            St. Lawrence University | Assistant Professor | August 2019 - Present\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Matt Higham\n            \n            \n              \n                \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Twitter\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              Matt Higham studies spatial statistics with ecological applications. His focus is spatial prediction models with imperfect detection of animals in surveys. He is an Assistant Professor at St. Lawrence University and teaches courses in introductory statistics and data science. He enjoys watching tennis as well as fiddling around with tennis data.\n              \n              \n              Education\n              Oregon State University | Corvallis, OR\n              Ph.D. in Statistics | September 2014 - June 2019\n              Miami University | Oxford, OH\n              B.S. in Statistics, B.S. in Botany | August 2010 - May 2014\n              \n              \n              Experience\n              St. Lawrence University | Assistant Professor | August 2019 - Present\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-01-31T10:59:23-05:00"
+      "last_modified": "2021-01-31T11:48:27-05:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "My Blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-31T11:48:28-05:00"
     },
     {
       "path": "index.html",
@@ -13,8 +20,8 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-01-31T10:59:25-05:00"
+      "last_modified": "2021-01-31T11:48:30-05:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
