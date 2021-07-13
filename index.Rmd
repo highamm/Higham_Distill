@@ -15,7 +15,7 @@ site: distill::distill_website
  
 ## Bio
 
-Matt Higham studies spatial statistics with ecological applications. His focus is spatial prediction models with imperfect detection of animals in surveys. He is an Assistant Professor at St. Lawrence University and teaches courses in introductory statistics and data science. He enjoys watching tennis as well as fiddling around with tennis data.
+Matt Higham studies spatial statistics with ecological applications. His focus is spatial prediction models with imperfect detection of animals in surveys. He is an Assistant Professor at St. Lawrence University and teaches courses in introductory statistics, regression, and data science. 
 
 ## Education
 
